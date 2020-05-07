@@ -1,11 +1,20 @@
 {
-  "name": "my-app",
+  "name": "e-commerce_app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://store.dannydigital.com",
+  "author": {
+    "name": "Obinna Daniel"
+  },
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "react-mdl": "^1.11.0",
+    "react-paypal-express-checkout": "^1.0.5",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "2.1.8",
+    "styled-components": "^4.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
